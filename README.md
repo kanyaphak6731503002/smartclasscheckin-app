@@ -1,17 +1,20 @@
-# smartclasscheckin
+# Smart Class Check-in & Learning Reflection App 🚀
 
-A new Flutter project.
+## 📝 Project Description
+This is a prototype mobile application (MVP) built with Flutter for university students to check in to their classes and reflect on their learning experience. 
 
-## Getting Started
+The system ensures physical presence and participation by utilizing:
+- **GPS Location:** Verifies that students are physically present in the classroom.
+- **QR Code Scanning:** Validates the start and end of the class session.
+- **Learning Reflection:** Captures students' pre-class expectations, mood, and post-class feedback.
+- **Local Data Storage:** Temporarily stores check-in and check-out data on the device using `shared_preferences`.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙️ Setup Instructions
+To set up this project locally on your machine, follow these steps:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Prerequisites:** Ensure you have the Flutter SDK installed on your system.
+2. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/kanyaphak6731503002/smartclasscheckin-app.git](https://github.com/kanyaphak6731503002/smartclasscheckin-app.git)
